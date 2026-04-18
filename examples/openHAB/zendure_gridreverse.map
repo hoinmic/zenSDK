@@ -1,0 +1,8 @@
+# Zendure Grid Reverse Mapping
+# Based on gridReverse property: 0-2 Reverse flow control
+0=Disabled
+1=Enabled
+2=Auto
+UNDEF=Unknown
+NULL=Unknown
+-=Unknown

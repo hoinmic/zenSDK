@@ -1,0 +1,7 @@
+# Zendure PV Status Mapping
+# Based on pvStatus property: 0-1 PV state
+0=Inactive
+1=Active
+UNDEF=Unknown
+NULL=Unknown
+-=Unknown

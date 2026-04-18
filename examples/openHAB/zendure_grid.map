@@ -1,0 +1,7 @@
+# Zendure Grid State Mapping
+# Based on gridState property: 0-1 Grid connection state
+0=Disconnected
+1=Connected
+UNDEF=Unknown
+NULL=Unknown
+-=Unknown

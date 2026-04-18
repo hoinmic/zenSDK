@@ -1,0 +1,15 @@
+# Zendure Grid Standard Mapping
+# Based on gridStandard property: Grid standards by country
+0=Germany
+1=France
+2=Austria
+3=Switzerland
+4=Netherlands
+5=Spain
+6=Belgium
+7=Greece
+8=Denmark
+9=Italy
+UNDEF=Unknown
+NULL=Unknown
+-=Unknown

@@ -1,0 +1,8 @@
+# Zendure Pack State Mapping
+# Based on packState property: 0 Standby, 1 Charging, 2 Discharging
+0=Standby
+1=Charging
+2=Discharging
+UNDEF=Unknown
+NULL=Unknown
+-=Unknown
